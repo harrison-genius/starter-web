@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Delivery and support <role> System Engineer <twitter>
 
 # THANKS
 
-    <name>
+    Harrison Obayangbona
 
 # TECHNOLOGY COLOPHON
 
