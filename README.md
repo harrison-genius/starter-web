@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Getting to know how to make changes to files on the remote repository,  my github account.
-
+It is interesting topic but needs alot of detailed attention.
 ## Purpose
 
 Sample website with plenty of files for demos
