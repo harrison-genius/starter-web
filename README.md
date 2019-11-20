@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+Getting to know how to make changes to files on the remote repository,  my github account.
 
 ## Purpose
 
