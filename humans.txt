@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Delivery and support <role> System Engineer <twitter>
+    Harrison Obayangbona
+    Delivery and support 
+    System Engineer 
 
 # THANKS
 
@@ -12,4 +14,4 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
-    jQuery, Modernizr, Ajax
+    jQuery, Modernizr, Ajax, Java
