@@ -12,7 +12,7 @@ A lot of lectures have been completed
 
 ##Git & GitHUB Training
 This is a famous and one of the best training course of DeveOps
-
+Adding Git Rebase lectures.
 ## GIT Content
 This will show the difference in git repository and working copy
 
